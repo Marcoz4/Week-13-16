@@ -8,3 +8,5 @@ spring:
       ddl-auto: update # Tells Hibernate to automatically update the database schema.
     show-sql: true # Enables SQL query logging.
   
+  
+  
